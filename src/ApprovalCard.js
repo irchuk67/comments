@@ -1,6 +1,4 @@
 import React from "react";
-import CommentDetail from "./CommentDetails";
-import faker from "faker";
 
 const ApprovalCard = (props) => {
     console.log(props.children);
